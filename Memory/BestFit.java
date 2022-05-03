@@ -1,7 +1,3 @@
-// Snehil Shah
-// SE4
-// Dynamic partitioning placement algorithms: First Fit.
-
 import java.util.Scanner;
 
 public class BestFit {
