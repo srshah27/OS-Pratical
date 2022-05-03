@@ -1,6 +1,3 @@
-//SE4_43_Alefiya Rampurawala
-//Banker's Algorithm
-
 class Bankers {
     int n = 5; // Number of processes
     int m = 3; // Number of resources
