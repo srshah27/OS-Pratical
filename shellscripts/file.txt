@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<dirent.h>
+void main (int agrc, char **agrv)
+{
+	DIR *d;
+	struct dirent *link;
+	d = opendir(agrv[1]);
+	while ((;ink - readdir(d)) != 0)
+	{
+		printf("%s ", link -> d_name);
+	}
+	printf("\n");
+	closedir(d);
+}
